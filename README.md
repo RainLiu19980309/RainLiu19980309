@@ -24,7 +24,7 @@ My name is Rain and I'm a Full-Stack Developer who never gives up!
 🔭 Current project: 
 - NGO Campaign -> Médecins Sans Frontières (HTML + CSS + JavaScript + SASS + AJAX + PHP +  Vue.js + Gulp.JS).
 
-🌱 Interests:
+🌱 Services:
 - Front-end Development
 - Back-end Development
 - DSLR Photography
