@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 My name is Rain and I'm a Full-Stack Developer who never gives up!
 
+🔭 Current Project: 
+- NGO Campaign -> Médecins Sans Frontières (HTML + CSS + JavaScript + SASS + AJAX + PHP +  Vue.js + Gulp.js).
+
 ⚡ Experience:
 - Assistant Creative Director [Sep 2016 - Aug 2017 | Kunming, CN]
 - Associate Creative Director [Sep 2017 - Aug 2020 | Kunming, CN]
-
-🔭 Current project: 
-- NGO Campaign -> Médecins Sans Frontières (HTML + CSS + JavaScript + SASS + AJAX + PHP +  Vue.js + Gulp.JS).
 
 🌱 Services:
 - Front-end Development
