@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Rain and I'm a Full-Stack Developer who never gives up!
+
+⚡ Work experience:
+- Assistant Creative Director [Kunming, Yunnan. Sep 2016 - Aug 2017]
+- Associate Creative Director [Kunming, Yunnan. Sep 2017 - Aug 2020]
+
+🔭 Current project: 
+- NGO Campaign - Médecins Sans Frontières (HTML + CSS + JavaScript + SASS + AJAX + PHP +  Vue.js + Gulp.JS).
+
+🌱 Interests:
+- Front-end Development
+- Back-end Development
+- DSLR Photography
+- Graphic Design
+- Motion Design
+- Web Design
+
+💬 Reach me by email or LinkedIn! ruiyingliu@ruiyingliu.com | www.linkedin.com/in/rainliu19980309
+
+📫 Visit my website: http://www.ruiyingliu.com
