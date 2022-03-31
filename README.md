@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Rain and I'm a Full-Stack Developer who never gives up!
 
 🔭 Current Project: 
-- NGO Campaign -> Médecins Sans Frontières (HTML + CSS + JavaScript + SASS + AJAX + PHP +  Vue.js + Gulp.js).
+- Streaming App -> Roku Flashback (VUE.js + SASS + Node.js + Lumen).
 
 ⚡ Experience:
 - Assistant Creative Director [Sep 2016 - Aug 2017 | Kunming, CN]
