@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Rain and I'm a Full-Stack Developer who never gives up!
 
 🔭 Current Project: 
-- 
+- Learning ...
 
 ⚡ Experience:
 - Assistant Creative Director [Sep 2016 - Aug 2017 | Kunming, CN]
