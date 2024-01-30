@@ -1,42 +1,61 @@
 # Ruiying (Rain) Liu 👋
 
-## Innovative Interactive Media Professional & Developer
+### Driven Designer & Developer | Blending Creativity with Functionality
 
-🌟 Driven Designer and Developer blending creativity with functionality for standout user experiences. Innovative and deadline-driven interactive media professional with over 3 years of experience in designing and developing user-centric digital and print marketing materials. I thrive in crafting engaging and impactful designs that align with client goals and audience needs, transforming initial concepts into polished, final deliverables.
-
-📚 **Education:**
-- Bachelor of Arts - Media, Information & Technoculture (Sep 2022 - Apr 2024) at University of Western Ontario, London, ON
-- Diploma of Education - Interactive Media Design (Sep 2020 - Apr 2022) at Fanshawe College, London, ON
-
-🌐 **Location:** London, Ontario, Canada  
+📍 **Location:** London, Ontario, Canada  
 📞 **Phone:** +1 (548) 881-3309  
 ✉️ **Email:** [rain@ruiyingliu.com](mailto:rain@ruiyingliu.com)  
-🌐 **Languages:** English & Mandarin
+🌐 **Languages:** English & Mandarin  
+  
+📁 **Portfolio:** [ruiyingliu.com](https://ruiyingliu.com)  
+🔗 **LinkedIn:** [Ruiying Liu](https://www.linkedin.com/in/rainliu19980309/)
+💼 **GitHub:** [RainLiu19980309](https://github.com/RainLiu19980309)
 
-🔭 **Currently:** Social Media Marketing Specialist at Shenzhen Balagezong Import & Export Trading Co. Ltd., CA (Sep 2023 - Present)
+---
 
-### What I Do:
+## About Me
 
-🎨 **Creative Services:**
-- DSLR Photography: Capturing life's moments with striking clarity for personal and corporate events.
-- Graphic Design: Crafting logos and materials that embody your brand’s essence and connect with your audience.
-- Motion Design: Creating motion graphics that blend storytelling and artistry for an engaging audience experience.
+Innovative and deadline-driven interactive media professional with over 3 years of experience. Specialized in designing and developing user-centric digital and print marketing materials, I excel in transforming initial concepts into polished, final deliverables. My focus lies in crafting engaging and impactful designs that align with client goals and audience needs. I am proactive in finding structured and durable solutions to interdisciplinary and complex problems, with a strong belief in team performance. Thriving on challenges, I bring out the best in problem-solving scenarios.
 
-💻 **Development Services:**
-- Front-end Development: Transforming concepts into stunning, user-friendly websites using HTML, CSS, and JavaScript.
-- Back-end Development: Building robust, secure, and scalable data platforms with Node.js, Python, and PHP.
-- Web Design: Designing responsive, SEO-friendly websites that reflect your brand’s story.
+🎓 **Education:**
+- **Bachelor of Arts** - Media, Information & Technoculture (Sep 2022 - Apr 2024)
+  - University of Western Ontario, London, ON
+- **Diploma of Education** - Interactive Media Design (Sep 2020 - Apr 2022)
+  - Fanshawe College, London, ON
 
-### Skills & Expertise:
-- **Frontend Scripting:** JavaScript, Vue.js (75%)
-- **Markup Languages:** HTML, XML, XSD (90%)
-- **Stylesheets:** CSS, Sass (85%)
-- **Server-Side Scripting:** PHP, Lumen, Python (70%)
-- **Backend Frameworks:** Node.js, Express.js (75%)
-- **Databases & Management:** SQL, MySQL, phpMyAdmin (75%)
-- **Version Control:** Git, GitHub (80%)
-- **Containerization:** Docker (70%)
-- ... and much more!
+💼 **Experience:**
+- **Social Media Marketing Specialist** (Sep 2023 - Present)
+  - Shenzhen Balagezong Import & Export Trading Co. Ltd., CA
+- **Assistant Creative Director** (Dec 2016 - Aug 2020)
+  - Yunnan Woruo Culture Communication Co. Ltd., CN
+- **Creative Department Intern** (Sep 2016 - Nov 2016)
+  - Yunnan Woruo Culture Communication Co. Ltd., CN
+
+---
+
+## My Skills
+
+```text
+JavaScript, Vue.js         ████████████████████░   75%
+HTML, XML, XSD             ██████████████████████  90%
+CSS, Sass                  █████████████████████░  85%
+PHP, Lumen, Python         ██████████████████░░░░  70%
+Node.js, Express.js        ████████████████████░░  75%
+SQL, MySQL, phpMyAdmin     ████████████████████░░  75%
+Git, GitHub                █████████████████████░  80%
+Docker                     █████████████████░░░░░  70%
+npm, Composer, gulp.js     ████████████████████░░  75%
+Adobe Illustrator          ████████████████████░░  80%
+Adobe InDesign, Adobe XD   █████████████████████░  85%
+Adobe Premiere Pro         ████████████████████░░  80%
+Adobe After Effects        ███████████████████░░░  75%
+Cinema 4D                  ██████████████░░░░░░░░  65%
+Microsoft Office Suite     ██████████████████████  90%
+Microsoft Access, Dia      █████████████████░░░░░  70%
+Audacity                   ██████████████████░░░░  75%
+Anaconda, Jupyter Notebook ██████████████████░░░░  70%
+
+---
 
 ### Achievements:
 - 🌟 **Satisfied Clients:** 19
@@ -50,8 +69,6 @@
 ---
 
 ### Let's Connect!
-💼 [Portfolio](https://ruiyingliu.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/rainliu19980309/)
-
 ![RainLiu19980309](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true)
 
 > Crafting digital experiences with a blend of creativity and functionality. Let's innovate together!
