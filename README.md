@@ -6,9 +6,6 @@
 📞 **Phone:** +1 (548) 881-3309  
 ✉️ **Email:** [rain@ruiyingliu.com](mailto:rain@ruiyingliu.com)  
 🌐 **Languages:** English & Mandarin  
-  
-📁 **Portfolio:** [ruiyingliu.com](https://ruiyingliu.com)  
-🔗 **LinkedIn:** [Ruiying Liu](https://www.linkedin.com/in/rainliu19980309/)
 
 ---
 
@@ -68,6 +65,8 @@ Anaconda, Jupyter Notebook █████████████████�
 ---
 
 ### Let's Connect!
+🔗 [LinkedIn](https://www.linkedin.com/in/rainliu19980309/) | 💼 [Portfolio](https://ruiyingliu.com)
+
 ![RainLiu19980309](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true)
 
 > Crafting digital experiences with a blend of creativity and functionality. Let's innovate together!
