@@ -9,7 +9,6 @@
   
 📁 **Portfolio:** [ruiyingliu.com](https://ruiyingliu.com)  
 🔗 **LinkedIn:** [Ruiying Liu](https://www.linkedin.com/in/rainliu19980309/)
-💼 **GitHub:** [RainLiu19980309](https://github.com/RainLiu19980309)
 
 ---
 
