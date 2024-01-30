@@ -13,13 +13,13 @@
 
 As a driven Designer and Developer, I'm where creativity meets functionality. With over 3 years in the interactive media realm, I specialize in transforming visions into reality through user-centric digital and print materials. My approach is proactive, seeking structured solutions to complex problems, with a keen focus on teamwork and performance. Challenges are my canvas, and each problem is an opportunity to create art in code.
 
-🎓 **Educational Odyssey:**
+## 🎓 Educational Odyssey
 - **Media, Information & Technoculture** (Sep 2022 - Apr 2024)
   - University of Western Ontario, London, ON
 - **Interactive Media Design** (Sep 2020 - Apr 2022)
   - Fanshawe College, London, ON
 
-💼 **Professional Pathway:**
+## 💼 Professional Pathway
 - **Social Media Marketing Specialist** (Sep 2023 - Present)
   - Shenzhen Balagezong Import & Export Trading Co. Ltd., CA
 - **Assistant Creative Director** (Dec 2016 - Aug 2020)
@@ -51,15 +51,13 @@ Microsoft Access, Dia      █████████████████�
 Audacity                   ██████████████████░░░░  75%
 Anaconda, Jupyter Notebook ██████████████████░░░░  70%
 
----
-
-## 🏆 Triumphs & Trophies:
+## 🏆 Triumphs & Trophies
 - **Satisfied Clients:** 19
 - **Successful Projects:** 98
 - **Years of Support:** 3
 - **Achievement Awards:** 9
 
-### 🌱 Growing Interests:
+## 🌱 Growing Interests
 - 🏂 Snowboarding
 - ⛸ Skating
 - 🏞 Hiking
