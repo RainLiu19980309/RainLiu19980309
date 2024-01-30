@@ -6,6 +6,8 @@
 📞 **Reach Out:** +1 (548) 881-3309  
 ✉️ **Email:** [rain@ruiyingliu.com](mailto:rain@ruiyingliu.com)  
 🔤 **Languages:** English & Mandarin  
+📁 **Portfolio:** [Portfolio](https://ruiyingliu.com)
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rainliu19980309/)
 
 ---
 
@@ -26,26 +28,6 @@ As a driven Designer and Developer, I'm where creativity meets functionality. Wi
   - Yunnan Woruo Culture Communication Co. Ltd., CN
 - **Creative Department Intern** (Sep 2016 - Nov 2016)
   - Yunnan Woruo Culture Communication Co. Ltd., CN
- 
-## 🏆 Triumphs & Trophies
-- **Satisfied Clients:** 19
-- **Successful Projects:** 98
-- **Years of Support:** 3
-- **Achievement Awards:** 9
-
-## 🌱 Growing Interests
-- 🏂 Snowboarding
-- ⛸ Skating
-- 🏞 Hiking
-- 🏊 Swimming
-- 📚 Reading
-- 💻 Coding
-- ✍️ Writing
-- 🛍 Shopping
-- 🎸 Concerts
-- 📸 Photography
-- 🎥 Documentary
-- 😺 Kitties
 
 ---
 
@@ -72,12 +54,29 @@ Audacity                   █████████████████�
 Anaconda, Jupyter Notebook ██████████████████░░░░  70%
 ```
 
+## 🏆 Triumphs & Trophies
+- 🌟 **Satisfied Clients:** 19
+- 🚀 **Successful Projects:** 98
+- 🏆 **Years of Support:** 3
+- 🏅 **Achievement Awards:** 9
+
+## 🌱 Growing Interests
+- 🏂 Snowboarding
+- ⛸ Skating
+- 🏞 Hiking
+- 🏊 Swimming
+- 📚 Reading
+- 💻 Coding
+- ✍️ Writing
+- 🛍 Shopping
+- 🎸 Concerts
+- 📸 Photography
+- 🎥 Documentary
+- 😺 Kitties
+
 ---
 
 ## 🤝 Let's Connect!
-- 📁 [Portfolio](https://ruiyingliu.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rainliu19980309/)
-
 ![RainLiu19980309's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
 
 > Embarking on a journey where every line of code tells a story, and every design embodies an emotion. Let's innovate and craft digital experiences together!
