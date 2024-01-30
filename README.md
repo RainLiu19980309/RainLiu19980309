@@ -6,7 +6,7 @@
 📞 **Reach Out:** +1 (548) 881-3309  
 ✉️ **Email:** [rain@ruiyingliu.com](mailto:rain@ruiyingliu.com)  
 🔤 **Languages:** English & Mandarin  
-📁 **Portfolio:** [Ruiying Liu](https://ruiyingliu.com) 
+📁 **Portfolio:** [Ruiying (Rain) Liu](https://ruiyingliu.com) | 
 🔗 **LinkedIn:** [Ruiying (Rain) Liu](https://www.linkedin.com/in/rainliu19980309/) 
 
 ---
@@ -77,6 +77,6 @@ Anaconda, Jupyter Notebook █████████████████�
 ---
 
 ## 🤝 Let's Connect!
-![RainLiu19980309's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
+![Rain Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
 
 > Embarking on a journey where every line of code tells a story, and every design embodies an emotion. Let's innovate and craft digital experiences together!
