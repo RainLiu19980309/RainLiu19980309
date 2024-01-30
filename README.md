@@ -49,16 +49,6 @@ As a driven Designer and Developer, I'm where creativity meets functionality. Wi
 
 ---
 
-## 🤝 Let's Connect!
-- 📁 [Portfolio](https://ruiyingliu.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rainliu19980309/)
-
-![RainLiu19980309's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
-
-> Embarking on a journey where every line of code tells a story, and every design embodies an emotion. Let's innovate and craft digital experiences together!
-
----
-
 ## 🔧 Tech Toolkit
 
 ```text
@@ -80,3 +70,13 @@ Microsoft Office Suite     █████████████████�
 Microsoft Access, Dia      █████████████████░░░░░  70%
 Audacity                   ██████████████████░░░░  75%
 Anaconda, Jupyter Notebook ██████████████████░░░░  70%
+
+---
+
+## 🤝 Let's Connect!
+- 📁 [Portfolio](https://ruiyingliu.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rainliu19980309/)
+
+![RainLiu19980309's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
+
+> Embarking on a journey where every line of code tells a story, and every design embodies an emotion. Let's innovate and craft digital experiences together!
