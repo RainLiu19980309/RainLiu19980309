@@ -1,37 +1,57 @@
-### Hi there 👋
+# Ruiying (Rain) Liu 👋
 
-<!--
-**RainLiu19980309/RainLiu19980309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Innovative Interactive Media Professional & Developer
 
-Here are some ideas to get you started:
+🌟 Driven Designer and Developer blending creativity with functionality for standout user experiences. Innovative and deadline-driven interactive media professional with over 3 years of experience in designing and developing user-centric digital and print marketing materials. I thrive in crafting engaging and impactful designs that align with client goals and audience needs, transforming initial concepts into polished, final deliverables.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Education:**
+- Bachelor of Arts - Media, Information & Technoculture (Sep 2022 - Apr 2024) at University of Western Ontario, London, ON
+- Diploma of Education - Interactive Media Design (Sep 2020 - Apr 2022) at Fanshawe College, London, ON
 
-My name is Rain and I'm a Full-Stack Developer who never gives up!
+🌐 **Location:** London, Ontario, Canada  
+📞 **Phone:** +1 (548) 881-3309  
+✉️ **Email:** [rain@ruiyingliu.com](mailto:rain@ruiyingliu.com)  
+🌐 **Languages:** English & Mandarin
 
-🔭 Current Project: 
-- Learning ...
+🔭 **Currently:** Social Media Marketing Specialist at Shenzhen Balagezong Import & Export Trading Co. Ltd., CA (Sep 2023 - Present)
 
-⚡ Experience:
-- Assistant Creative Director [Sep 2016 - Aug 2017 | Kunming, CN]
-- Associate Creative Director [Sep 2017 - Aug 2020 | Kunming, CN]
+### What I Do:
 
-🌱 Services:
-- Front-end Development
-- Back-end Development
-- DSLR Photography
-- Graphic Design
-- Motion Design
-- Web Design
+🎨 **Creative Services:**
+- DSLR Photography: Capturing life's moments with striking clarity for personal and corporate events.
+- Graphic Design: Crafting logos and materials that embody your brand’s essence and connect with your audience.
+- Motion Design: Creating motion graphics that blend storytelling and artistry for an engaging audience experience.
 
-💬 Reach me by email or LinkedIn! ruiyingliu@ruiyingliu.com | www.linkedin.com/in/rainliu19980309
+💻 **Development Services:**
+- Front-end Development: Transforming concepts into stunning, user-friendly websites using HTML, CSS, and JavaScript.
+- Back-end Development: Building robust, secure, and scalable data platforms with Node.js, Python, and PHP.
+- Web Design: Designing responsive, SEO-friendly websites that reflect your brand’s story.
 
-📫 Visit my website: http://www.ruiyingliu.com
+### Skills & Expertise:
+- **Frontend Scripting:** JavaScript, Vue.js (75%)
+- **Markup Languages:** HTML, XML, XSD (90%)
+- **Stylesheets:** CSS, Sass (85%)
+- **Server-Side Scripting:** PHP, Lumen, Python (70%)
+- **Backend Frameworks:** Node.js, Express.js (75%)
+- **Databases & Management:** SQL, MySQL, phpMyAdmin (75%)
+- **Version Control:** Git, GitHub (80%)
+- **Containerization:** Docker (70%)
+- ... and much more!
+
+### Achievements:
+- 🌟 **Satisfied Clients:** 19
+- 🚀 **Successful Projects:** 98
+- 🏆 **Years of Support:** 3
+- 🏅 **Achievement Awards:** 9
+
+### Interests:
+🏂 Snowboarding | ⛸ Skating | 🏞 Hiking | 🏊 Swimming | 📚 Reading | 💻 Coding | ✍️ Writing | 🛍 Shopping | 🎸 Concerts | 📸 Photography | 🎥 Documentary | 😺 Kitties
+
+---
+
+### Let's Connect!
+💼 [Portfolio](https://ruiyingliu.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/rainliu19980309/)
+
+![RainLiu19980309](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true)
+
+> Crafting digital experiences with a blend of creativity and functionality. Let's innovate together!
