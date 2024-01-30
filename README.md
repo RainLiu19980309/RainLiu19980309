@@ -61,18 +61,18 @@ Anaconda, Jupyter Notebook █████████████████�
 - 🏅 **Achievement Awards:** 9
 
 ## 🌱 Growing Interests
-🏂 **Snowboarding:** Chasing the thrill on snowy slopes.
-⛸ **Skating:** Gliding with grace on ice.
-🏞 **Hiking:** Exploring nature, one trail at a time.
-🏊 **Swimming:** Embracing the tranquility of water.
-📚 **Reading:** Traveling through pages and stories.
-💻 **Coding:** Crafting solutions in a digital world.
-✍️ **Writing:** Weaving thoughts into words.
-🛍 **Shopping:** Hunting for the next great find.
-🎸 **Concerts:** Losing myself in live music.
-📸 **Photography:** Capturing moments through lenses.
-🎥 **Documentary:** Diving deep into real stories.
-😺 **Kitties:** Cherishing moments with my furry friends.
+- 🏂 **Snowboarding:** Chasing the thrill on snowy slopes.
+- ⛸ **Skating:** Gliding with grace on ice.
+- 🏞 **Hiking:** Exploring nature, one trail at a time.
+- 🏊 **Swimming:** Embracing the tranquility of water.
+- 📚 **Reading:** Traveling through pages and stories.
+- 💻 **Coding:** Crafting solutions in a digital world.
+- ✍️ **Writing:** Weaving thoughts into words.
+- 🛍 **Shopping:** Hunting for the next great find.
+- 🎸 **Concerts:** Losing myself in live music.
+- 📸 **Photography:** Capturing moments through lenses.
+- 🎥 **Documentary:** Diving deep into real stories.
+- 😺 **Kitties:** Cherishing moments with my furry friends.
 
 ---
 
