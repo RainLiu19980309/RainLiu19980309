@@ -61,22 +61,22 @@ Anaconda, Jupyter Notebook █████████████████�
 - 🏅 **Achievement Awards:** 9
 
 ## 🌱 Growing Interests
-- 🏂 Snowboarding
-- ⛸ Skating
-- 🏞 Hiking
-- 🏊 Swimming
-- 📚 Reading
-- 💻 Coding
-- ✍️ Writing
-- 🛍 Shopping
-- 🎸 Concerts
-- 📸 Photography
-- 🎥 Documentary
-- 😺 Kitties
+🏂 **Snowboarding:** Chasing the thrill on snowy slopes.
+⛸ **Skating:** Gliding with grace on ice.
+🏞 **Hiking:** Exploring nature, one trail at a time.
+🏊 **Swimming:** Embracing the tranquility of water.
+📚 **Reading:** Traveling through pages and stories.
+💻 **Coding:** Crafting solutions in a digital world.
+✍️ **Writing:** Weaving thoughts into words.
+🛍 **Shopping:** Hunting for the next great find.
+🎸 **Concerts:** Losing myself in live music.
+📸 **Photography:** Capturing moments through lenses.
+🎥 **Documentary:** Diving deep into real stories.
+😺 **Kitties:** Cherishing moments with my furry friends.
 
 ---
 
 ## 🤝 Let's Connect!
-![Rain Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
+![Ruiying (Rain) Liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainLiu19980309&show_icons=true&theme=vue)
 
 > Embarking on a journey where every line of code tells a story, and every design embodies an emotion. Let's innovate and craft digital experiences together!
