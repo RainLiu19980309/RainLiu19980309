@@ -4,9 +4,9 @@
 
 🌏 **From:** London, Ontario, Canada  
 📞 **Reach Out:** +1 (548) 881-3309  
-✉️ **Email:** [rain@ruiyingliu.com](mailto:rain@ruiyingliu.com)  
+✉️ **Email:** [rainliu19980309@gmail.com](mailto:rainliu19980309@gmail.com)  
 🔤 **Languages:** English & Chinese  
-📁 **Portfolio:** [Ruiying (Rain) Liu](https://ruiyingliu.com) | 
+📁 **Portfolio:** [Ruiying (Rain) Liu](https://ruiying-liu.com) | 
 🔗 **LinkedIn:** [Ruiying (Rain) Liu](https://www.linkedin.com/in/rainliu19980309/) 
 
 ---
