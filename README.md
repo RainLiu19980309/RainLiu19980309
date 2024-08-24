@@ -6,7 +6,7 @@
 📞 **Reach Out:** +1 (548) 881-3309  
 ✉️ **Email:** [rainliu19980309@gmail.com](mailto:rainliu19980309@gmail.com)  
 🔤 **Languages:** English & Chinese  
-📁 **Portfolio:** [Ruiying (Rain) Liu](https://ruiying-liu.com) | 
+📁 **Portfolio:** [Ruiying (Rain) Liu](https://ruiyingliu.com) | 
 🔗 **LinkedIn:** [Ruiying (Rain) Liu](https://www.linkedin.com/in/rainliu19980309/) 
 
 ---
